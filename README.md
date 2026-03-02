@@ -30,11 +30,13 @@ Users can generate strong passwords with adjustable length and optional inclusio
 ---
 
 ## 📂 Project Structure
+```
 src/
 │
 ├── App.css
 ├── App.jsx 
 └── main.jsx
+```
 
 ---
 
@@ -66,3 +68,4 @@ src/
 ## 👨‍💻 Author
 
 Mahboob
+
